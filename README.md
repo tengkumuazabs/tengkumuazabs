@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there! 🙋🏻‍♀️
 
-<!--
-**tengkumuazabs/tengkumuazabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tengku, a data analyst from Indonesia
 
-Here are some ideas to get you started:
+### ✨ About Me in 30 Secs ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects & Guides 📚
+
+### 💡 Core Competencies 💡
+- Tools: SQL, Python, Tableau
+- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+
+### ⚡️ Currently ⚡️
