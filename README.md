@@ -1,14 +1,18 @@
-## Hi there! 🙋🏻‍♀️
+## About Me
 
-My name is Tengku, a data analyst from Indonesia
+My name is Tengku and here's my information regarding things I have achieved.
 
-### ✨ About Me
+### Projects
+COVID-19 Detection Using Chest X-ray images.
 
-### 📚 Projects
+### Skills
+Data Analysis
+Data Science
+Dashboard Reporting
 
-### 💡 Competencies
-- Tools: SQL, Python, Tableau
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+### Tools
+Python (Google Colab)
+SQL (PostgreSQL)
+PowerBI
 
-### ⚡️ Currently Doing
-Completing my thesis about COVID-19 Detection Using Chest X-ray images.
+
