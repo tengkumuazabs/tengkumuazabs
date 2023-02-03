@@ -2,19 +2,18 @@
 
 My name is Tengku and here's my information regarding things I have achieved.
 
-### Projects
-COVID-19 Detection Using Chest X-ray images.
-
 ### Skills
 - Data Analysis
 - Data Science
 - Dashboard Reporting
-
-### Tools
+- Graphic Design
+ 
+### Tools for Data
 - Python (Google Colab)
 - SQL (PostgreSQL)
 - PowerBI
 
-
+### Tools for Graphic Design
+- Adobe Illustrator
 
 
