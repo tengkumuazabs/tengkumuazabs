@@ -16,5 +16,5 @@ Hi, my name is Tengku and I like stuffs like data science and graphic design. I'
 - Adobe Illustrator
 
 ### My Portfolio
-Here are the things I've done so far, feel free to check -> 
+Here are the things I've done so far, feel free to check -> https://github.com/tengkumuazabs/my-portfolio
 
