@@ -1,19 +1,20 @@
 ## About Me
 
-My name is Tengku and here's my information regarding things I have achieved.
+Hi, my name is Tengku and I like stuffs like data science and graphic design. I've been learning data science for 3 years and currently I am taking my Master's degree of Information Technology at Gadjah Mada University. Also, I am currently working remotely for making graphic design for social media posts. Here's a few additional information about me.
 
 ### Skills
-- Data Analysis
-- Data Science
+- Data Science & Data Analysis
 - Dashboard Reporting
 - Graphic Design
  
 ### Tools for Data
-- Python (Google Colab)
+- Python (Google Colab & Jupyter Notebook)
 - SQL (PostgreSQL)
 - PowerBI
 
 ### Tools for Graphic Design
 - Adobe Illustrator
 
+### My Portfolio
+Here are the things I've done so far, feel free to check -> 
 
