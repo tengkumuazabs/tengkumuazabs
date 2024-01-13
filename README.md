@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is Tengku and I like stuffs like data science and graphic design. I've been learning data science for 3 years and also I have a Master's degree of Information Technology at Gadjah Mada University. Also, I am currently working remotely for making graphic design for social media posts. Here's a few additional information about me.
+Hi, my name is Tengku and I like stuffs like data science and graphic design. I've been learning data science for 3 years and also I have a Master's degree of Information Technology at Gadjah Mada University. Here's a few additional information about me.
 
 ### Skills
 - Data Science & Data Analysis
