@@ -17,5 +17,8 @@ Hi, my name is Tengku and I like stuffs like data science and graphic design. I'
 - CorelDraw
 
 ### My Portfolio
-Here are the things I've done so far, feel free to check -> https://github.com/tengkumuazabs/my-portfolio
+Here are things I've done so far, feel free to check -> https://github.com/tengkumuazabs/my-portfolio
+
+### My Linkedin
+My Linkedin profile can be checked via this link -> https://www.linkedin.com/in/tengku-muaz-abdussalam
 
