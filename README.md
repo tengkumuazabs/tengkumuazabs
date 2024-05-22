@@ -1,24 +1,27 @@
 ## About Me
 
-Hi, my name is Tengku and I like stuffs like data science and graphic design. I've been learning data science for 3 years and also I have a Master's degree of Information Technology at Gadjah Mada University. Here's a few additional information about me.
+A data science enthusiast and a fresh graduated master's student in Information Technology, been learning data science for 3+ years. Having familiar knowledge with Python, SQL, and Microsoft Power BI. Proven results with works, personal projects, and academic research. Already contributed significantly in transforming raw data into meaningful visualizations which lead to better insights and better decision making.
 
-### Skills
-- Data Science & Data Analysis
-- Dashboard Reporting
-- Graphic Design
- 
-### Tools for Data
-- Python (Google Colab & Jupyter Notebook)
-- SQL (PostgreSQL)
-- PowerBI
+### Technical Skills
+- Python (Pandas, Numpy, Matplotlib, Plotly, OpenCV, Tensorflow, Keras, scikit-learn, Streamlit)
+- Microsoft Power BI
+- SQL
 
-### Tools for Graphic Design
-- Adobe Illustrator
-- CorelDraw
+### Area of Interests
+- Data Science
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Classification
+- Regression
 
 ### My Portfolio
-Here are things I've done so far, feel free to check -> https://github.com/tengkumuazabs/my-portfolio
+[Github Portfolio](https://github.com/tengkumuazabs/my-portfolio)
 
 ### My Linkedin
-My Linkedin profile can be seen by visiting this link -> https://www.linkedin.com/in/tengku-muaz-abdussalam
+[LinkedIn Page](https://www.linkedin.com/in/tengku-muaz-abdussalam)
 
