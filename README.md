@@ -3,7 +3,7 @@
 A data science enthusiast and a fresh graduated master's student in Information Technology, been learning data science for 3+ years. Having familiar knowledge with Python, SQL, and Microsoft Power BI. Proven results with works, personal projects, and academic research. Already contributed significantly in transforming raw data into meaningful visualizations which lead to better insights and better decision making.
 
 ### Technical Skills
-- Python (Pandas, Numpy, Matplotlib, Plotly, OpenCV, Tensorflow, Keras, scikit-learn, Streamlit)
+- Python (Pandas, NumPy, Matplotlib, Plotly, OpenCV, TensorFlow, Keras, scikit-learn, Streamlit)
 - Microsoft Power BI
 - SQL
 
