@@ -1,6 +1,6 @@
 ## About Me
 
-I am proficient in Python and Microsoft Power BI. I have successfully developed multiple dashboards that enhance data reporting and decision-making process. I have personal projects in data science and data analysis as well.
+Data Analyst with hands-on experience in Python, SQL, Microsoft Power BI, and Microsoft Excel, specializing in data visualization, predictive modeling, and time series analysis. Proven ability to design interactive dashboards that enhance reporting and support strategic decision-making. Skilled in a range of data science and machine learning techniques, with a strong portfolio of real-world and competition-based projects.
 
 ### Technical Skills
 - Python
