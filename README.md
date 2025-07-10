@@ -32,7 +32,7 @@ A Streamlit app that visualizes global COVID-19 data through interactive maps, t
 - **Airline Ticket Price Prediction** ([Live App](https://airline-ticket-price.streamlit.app/) | [GitHub Repo](https://github.com/tengkumuazabs/airline-ticket-prediction))  
 A FastAPI web app that predicts airline ticket prices using a trained Random Forest model, with a clean input form and Dockerized deployment.
 
-- **Indonesian NIK Extractor** ([Live App](https://doc-ocr.streamlit.app/) | [GitHub Repo](https://github.com/yourusername/doc-ocr))  
+- **Indonesian NIK Extractor** ([Live App](https://doc-ocr.streamlit.app/) | [GitHub Repo](https://github.com/tengkumuazabs/doc-ocr))  
 An OCR-based Streamlit app that extracts NIK numbers from KTP images using DocTR. Supports image upload or URL input with error correction.
 
 - **IDR Currency Classifier** ([Live App](https://idr-currency-classification.streamlit.app/) | [GitHub Repo](https://github.com/tengkumuazabs/idr-currency-classification))  
@@ -43,9 +43,11 @@ A Streamlit app using TensorFlow and MobileNetV2 to classify Indonesian Rupiah b
 - **Bachelor of Computer Science**  | *Universitas Islam Indonesia*  
 **September 2016 – April 2020**
 
-<!-- 
+<!--
 - **Master of Engineering**  | *Universitas Gadjah Mada*  
 **February 2021 – November 2023**
+
+ 
 
 ## Training / Certifications
 
