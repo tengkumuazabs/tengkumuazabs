@@ -10,7 +10,7 @@ Data Analyst with experiences in Python, SQL, Microsoft Power BI, and Microsoft 
 
 ## Experience
 
-**Data Analyst**  | *Islamic University of Indonesia*  
+**Data Analyst**  | *Universitas Islam Indonesia*  
 **November 2023 – Present**
 
 - Led the implementation of Microsoft Power BI to revolutionize data visualization in the marketing department, driving more informed decision-making and uncovering actionable insights.
@@ -20,27 +20,34 @@ Data Analyst with experiences in Python, SQL, Microsoft Power BI, and Microsoft 
 
 ## Technical Skills
 
-**Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, Streamlit, TensorFlow, FastAPI), SQL  
-**Analytical Tools:** Microsoft Power BI, Microsoft Excel  
-**Containerization & Deployment:** Docker
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, Streamlit. FastAPI,  TensorFlow, OpenCV), SQL  
+- **Analytical Tools:** Microsoft Power BI, Microsoft Excel  
+- **Containerization & Deployment:** Docker
 
 ## Projects
 
-**Spatial Analysis on COVID-19** ([Live App](https://covid-19-data-visualizer.streamlit.app/) | [GitHub Repo](https://github.com/tengkumuazabs/covid-19-analysis))  
-An interactive web application built with Streamlit that visualizes global and country-specific COVID-19 data. The app displays confirmed cases and deaths worldwide, along with an interactive map showing deaths by country with adjustable thresholds. It features time-series line charts for confirmed cases and deaths by selected country, a pie chart to illustrate fatality ratio, and resampled bar charts for daily, monthly, and yearly trends. A searchable country list provides quick access to key metrics.
+- **Spatial Analysis on COVID-19** ([Live App](https://covid-19-data-visualizer.streamlit.app/) | [GitHub Repo](https://github.com/tengkumuazabs/covid-19-analysis))  
+A Streamlit app that visualizes global COVID-19 data through interactive maps, time-series charts, and summary statistics by country.
 
- **Airline Ticket Price Prediction** ([Live App](https://airline-ticket-price.streamlit.app/) | [GitHub Repo](https://github.com/tengkumuazabs/airline-ticket-prediction))  
-A real-time airline ticket price prediction web app developed using FastAPI and scikit-learn. The app features a clean HTML form built with Jinja2 templates for user input and predicts flight prices based on various parameters using a trained Random Forest model. The project follows a well-organized structure and supports Docker for containerized deployment. It also uses a `.env` file for managing environment-based configurations.
+- **Airline Ticket Price Prediction** ([Live App](https://airline-ticket-price.streamlit.app/) | [GitHub Repo](https://github.com/tengkumuazabs/airline-ticket-prediction))  
+A FastAPI web app that predicts airline ticket prices using a trained Random Forest model, with a clean input form and Dockerized deployment.
 
-**IDR Currency Classifier** ([Live App](https://idr-currency-classification.streamlit.app/) | [GitHub Repo](https://github.com/tengkumuazabs/idr-currency-classification))  
-A machine learning web app built with Streamlit and TensorFlow to classify Indonesian Rupiah banknotes from uploaded images. The app utilizes a pretrained MobileNetV2-based model to recognize currency denominations and displays the top prediction with a confidence score. It also includes an expandable section showing the top five class probabilities. The application is configured using environment variables through a `.env` file for flexible model path management and uses caching to efficiently load the model and optimize performance.
+- **Indonesian NIK Extractor** ([Live App](https://doc-ocr.streamlit.app/) | [GitHub Repo](https://github.com/yourusername/doc-ocr))  
+An OCR-based Streamlit app that extracts NIK numbers from KTP images using DocTR. Supports image upload or URL input with error correction.
+
+- **IDR Currency Classifier** ([Live App](https://idr-currency-classification.streamlit.app/) | [GitHub Repo](https://github.com/tengkumuazabs/idr-currency-classification))  
+A Streamlit app using TensorFlow and MobileNetV2 to classify Indonesian Rupiah banknotes from uploaded images with confidence scores.
 
 ## Education
 
-**Bachelor of Computer Science**  | *Islamic University of Indonesia*  
+- **Bachelor of Computer Science**  | *Universitas Islam Indonesia*  
 **September 2016 – April 2020**
 
-<!-- ## Training / Certifications
+<!-- 
+- **Master of Engineering**  | *Universitas Gadjah Mada*  
+**February 2021 – November 2023**
+
+## Training / Certifications
 
 - Python for Data Science and Machine Learning Bootcamp  
 - Neural Networks in Python: Deep Learning for Beginners  
