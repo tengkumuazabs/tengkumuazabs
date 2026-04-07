@@ -49,7 +49,6 @@ Data Analyst with experience in FMCG commercial operations, specializing in sale
 ## PORTFOLIOS
 
 - **Spatial Analysis on COVID-19** | [View App](https://covid-19-data-visualizer.streamlit.app)  
-- **Airline Ticket Price Prediction** | [View App](https://airline-ticket-price.streamlit.app)  
 - **Indonesian NIK Extractor** | [View App](https://doc-ocr.streamlit.app)  
 - **IDR Currency Classifier** | [View App](https://idr-currency-classification.streamlit.app)  
 - **Graphic Design Portfolio** | [View Samples](https://drive.google.com/drive/folders/13rrUzTGHam0B_y73V23xT3aNofQsRwHi)  
